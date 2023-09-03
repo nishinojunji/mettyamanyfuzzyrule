@@ -1,6 +1,13 @@
-fuzzy reasoning sample
+# mettya many fuzzy rule
+大量のファジィルール実験
 
 Junji Nishino (nishinojunji@uec.ac.jp)
+
+ファジィルール数と計算速度
+
+
+-----
+# 折れ線ファジィ集合推論セット
 
 1) make fuzzy sets a[] for ZENKEN BU
 2) set number of ZENKENBU into fuzzy rule template
