@@ -3,7 +3,7 @@
 
 #define ZENKEN_LIM 10
 #define POINT_LIM 10
-#define RULE_LIM 100
+#define RULE_LIM 1000
 
 /* element with grade */
 typedef struct {
